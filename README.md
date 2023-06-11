@@ -16,4 +16,4 @@
 
 ##### This is random picture
 
-![chamomile](https://cdn.pixabay.com/photo/2015/04/19/08/32/marguerite-729510_1280.jpg)
+![chamomile](https://files.nccih.nih.gov/chamomile-steven-foster-square.jpg)
